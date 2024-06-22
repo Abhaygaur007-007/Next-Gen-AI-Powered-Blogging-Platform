@@ -1,5 +1,9 @@
 # Next-Gen-AI-Powered-Blogging-Platform
 
+Welcome to the Next-Gen AI-Powered Blogging Platform, your ultimate solution for creating, managing, and optimizing your blog with the power of AI.
+
+## [API Documentation](https://abhaygaur007-007.github.io/Next-Gen-AI-Powered-Blogging-Platform/Blogging-Platform_BE)
+
 
 ## Installation and Setup
 
